@@ -1,8 +1,7 @@
 # DataStarterKit
 
-This is a guide to getting any computer running the same environment for data science needs. It'll use docker to create the same environment. That environment will include python and essential tooling like Jupyter, Pandas, NumPy, etc. 
+Get any computer running the same environment for my data science needs. It'll use docker to create the same environment. That environment will include python and essential tooling like Jupyter, Pandas, NumPy, etc. 
 
-The commands below are for your terminal. 
 
 **Contents:**
 1. Install Docker
